@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Mohit Karnani and I am a PhD Candidate at [MIT](https://www.mit.edu/)
+
+You can read more about me here :point_right: [mohitkarnani.com](http://mohitkarnani.com/)
+
+:v:
+
 <!--
 **mohitkarnani/mohitkarnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
